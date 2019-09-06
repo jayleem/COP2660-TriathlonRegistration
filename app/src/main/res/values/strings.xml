@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TriathlonRegistration</string>
+    <string name="numAthlete">Enter number of athletes on team</string>
+    <string name="btnCost">CALCULATE COSTS</string>
+    <string name="title">Triatholon Registration</string>
+    <string name="imgDesc">cyclists</string>
+</resources>
